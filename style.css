@@ -238,10 +238,6 @@ body{
     .right-container{
         display: block;
     }
-/*
-    .person-desktop{
-      width: 65%;  
-    }*/
 }
 
 @media (min-width: 2000px){
